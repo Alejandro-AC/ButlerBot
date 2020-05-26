@@ -1,17 +1,28 @@
 # ButlerBot
 Robotics Course - Simulation of a robot and it's different modules
+
 Descripció
+
 L'objectiu del nostre projecte ha estat simular un robot capaç de realitzar la cerca d'objectes dins d'un espai desconegut
+
 Requeriments:
+
 Python 3.6
+
 Llibreries:
+
 -pygame
+
 -pyaudio
+
 -speech_regonition
+
 -pillow
+
 -opencv-python
 
 Arxius:
+
 yolov3.weights(Afegir a la carpeta yolo) 
 
 
