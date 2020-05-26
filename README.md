@@ -1,7 +1,7 @@
 # ButlerBot
 Robotics Course - Simulation of a robot and it's different modules
 
-Descripció
+Descripció:
 
 L'objectiu del nostre projecte ha estat simular un robot capaç de realitzar la cerca d'objectes dins d'un espai desconegut
 
