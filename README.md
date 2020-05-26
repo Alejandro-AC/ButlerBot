@@ -45,6 +45,12 @@ El Butlerbot, és un robot d’ajuda a persones d’edat avançada o amb problem
 
 Autors: 
 Marta Aguilera Sorrives (1335167)
+
+
 Alejandro Aznar Cortés (1393192)
+
+
 Judit Boladeras Guillaumes (1459355) 
+
+
 Jordi Jané Besora (1462196)
