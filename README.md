@@ -23,12 +23,20 @@ Executar el programa fer un “Run”
 Resultat Execució:
 Comandes de veu demanant-li que mostri on es troba la poma
 ![1](https://github.com/Alejandro-AC/ButlerBot/blob/master/Imagenes/conversa.PNG)
+
+
 Dibuix que representa l'escena d'acció
 ![2](https://github.com/Alejandro-AC/ButlerBot/blob/master/Imagenes/mapa.PNG)
+
+
 Es veu el moviment del robot anant cap a la poma
 ![3](https://github.com/Alejandro-AC/ButlerBot/blob/master/Imagenes/mapaExecucio.PNG)
+
+
 Diagrama de flux
 ![4](https://github.com/Alejandro-AC/ButlerBot/blob/master/Imagenes/speechRecognition.PNG)
+
+
 Imatge de la tassa
 ![5](https://github.com/Alejandro-AC/ButlerBot/blob/master/Imagenes/tassa.PNG)
 
