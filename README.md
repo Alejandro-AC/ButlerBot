@@ -23,19 +23,27 @@ Executar el programa fer un “Run”
 Resultat Execució:
 
 Comandes de veu demanant-li que mostri on es troba la poma
+
 ![1](https://github.com/Alejandro-AC/ButlerBot/blob/master/Imagenes/conversa.PNG)
 
 
 Dibuix que representa l'escena d'acció
+
 ![2](https://github.com/Alejandro-AC/ButlerBot/blob/master/Imagenes/mapa.PNG)
 
 
 La simulació del recorregut que realitza l'algoritme RRT per l’exploració, es mostra mitjançant les línies de color blau i el recorregut que realitza el robot fins a arribar l’objecte és el camí que es mostra de color verd
+
 ![3](https://github.com/Alejandro-AC/ButlerBot/blob/master/Imagenes/mapaExecucio.PNG)
 
 
 Diagrama de flux
+
 ![4](https://github.com/Alejandro-AC/ButlerBot/blob/master/Imagenes/speechRecognition.PNG)
+
+Execució Completa
+
+![5](https://github.com/Alejandro-AC/ButlerBot/blob/master/Imagenes/ExecucioTotal.PNG)
 
 
 Contribució: 
