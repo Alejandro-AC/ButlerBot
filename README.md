@@ -44,6 +44,7 @@ Contribució:
 El Butlerbot, és un robot d’ajuda a persones d’edat avançada o amb problemes de visió, ja que a través de comandes de veu poden demanar un objecte que requereixen trobar. El robot és capaç de processar aquesta informació, identificar i trobar aquest objecte dins d’un mapa que desconeix inicialment, fent ús de l'algoritme RRT i els sensors de proximitat. Un  cop trobat, aquest objecte, el robot torna a la posició inicial per informar a la persona que ja coneix la posició d’aquest. De tal manera que proporciona una ajuda en la recerca d’objectes a persones amb dificultats.
 
 Autors: 
+
 Marta Aguilera Sorrives (1335167)
 
 
